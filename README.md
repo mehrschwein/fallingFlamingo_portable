@@ -10,3 +10,4 @@ Click on the fishes so your food bar doesn't go down too far. You don't want to 
 And don't forget your toilet breaks from time to time.
 
 have fun!
+The complete source code and visual studio project can be found at https://github.com/mehrschwein/fallingFlamingo
